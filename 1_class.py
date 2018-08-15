@@ -1,5 +1,6 @@
 #!usr/bin/env python3
 class calculator(x,y):
+     __init__(self)
 
     def addition(self):
         added = self.x + self.y
